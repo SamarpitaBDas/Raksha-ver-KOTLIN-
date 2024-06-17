@@ -16,4 +16,8 @@
         android:title="community"
         android:id="@+id/community"
         android:icon="@drawable/community"/>
+    <item
+        android:title="setting"
+        android:id="@+id/setting"
+        android:icon="@drawable/setting"/>
 </menu>

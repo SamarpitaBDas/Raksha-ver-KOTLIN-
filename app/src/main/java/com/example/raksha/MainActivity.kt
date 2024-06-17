@@ -22,6 +22,7 @@ class MainActivity : AppCompatActivity() {
                 R.id.emergency -> replaceFragment(EmergencyFragment())
                 R.id.report -> replaceFragment(ReportFragment())
                 R.id.community -> replaceFragment(CommunityFragment())
+                R.id.setting -> replaceFragment(SettingFragment())
             }
             true
         }
