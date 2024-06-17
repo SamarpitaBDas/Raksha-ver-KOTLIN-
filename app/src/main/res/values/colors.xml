@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!--light theme-->
+    <color name="purple">#5A639C</color>
+    <color name="lavender">#7776B3</color>
+    <color name="purplepink">#9B86BD</color>
+    <color name="pink">#E2BBE9</color>
+
+    <!--dark theme-->
+    <color name="darkblue">#0C134F</color>
+    <color name="neonblue">#1D267D</color>
+    <color name="darkpurple">#5C469C</color>
+    <color name="pinkpurple">#D4ADFC</color>
+</resources>
