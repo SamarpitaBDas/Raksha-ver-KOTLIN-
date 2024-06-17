@@ -2,8 +2,8 @@
     <!-- Base application theme. -->
     <style name="Base.Theme.Raksha" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your dark theme here. -->
-        <item name="colorPrimary">@color/purple</item>
-        <item name="colorSecondary">@color/lavender</item>
-        <item name="colorTertiary">@color/purplepink</item>
+        <item name="colorPrimary">@color/darkblue</item>
+        <item name="colorSecondary">@color/neonblue</item>
+        <item name="colorTertiary">@color/darkpurple</item>
     </style>
 </resources>

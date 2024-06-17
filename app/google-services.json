@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "784182046125",
+    "project_id": "raksha-a641d",
+    "storage_bucket": "raksha-a641d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784182046125:android:7ff6fac240550b25f2c524",
+        "android_client_info": {
+          "package_name": "com.example.raksha"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyF7YqXpfIX7ffZnT2L_HAXu6qDD2T8a4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
